@@ -1,0 +1,44 @@
+html {
+    font-size: 15px;
+    font-family: cursive;
+    background-color: #f4dd41;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    padding: 10px 0;
+    color: #f4dd41;
+    text-shadow: 4px 4px 1px black;
+    
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.special {
+    color: white;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+    
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #0979e2;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
